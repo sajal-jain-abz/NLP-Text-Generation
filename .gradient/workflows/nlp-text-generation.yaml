@@ -13,7 +13,7 @@
 # Last updated: Nov 03rd 2021
 
 on:
-  github:
+  push:
     branches:
       only: main
 
